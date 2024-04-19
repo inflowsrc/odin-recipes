@@ -1,4 +1,14 @@
 * {
     font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #fff;
 }
 
+body {
+    background-color: #121212;
+}
+
+ol,
+ul,
+p {
+    background-color: #282828
+}
